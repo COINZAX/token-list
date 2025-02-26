@@ -1,0 +1,14 @@
+{
+  "name": "CoinZax Token List",
+  "timestamp": "2025-02-26T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 1310,
+      "address": "0xTokenAddress1",
+      "name": "Token One",
+      "symbol": "TKN1",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/YourGitHubUsername/token-list/main/logos/0xTokenAddress1.png"
+    }
+  ]
+}
