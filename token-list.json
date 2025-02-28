@@ -4,11 +4,11 @@
   "tokens": [
     {
       "chainId": 1310,
-      "address": "0x92ea5EBe51C6eaa65402709f4609D615ED757770",
-      "name": "Zaxdog",
-      "symbol": "DOG",
+      "address": "0x087605D98dba8F7F2E24833093Dcbd131Dc6F139",
+      "name": "COINZAX Token",
+      "symbol": "ZAX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/coinzax/token-list/main/logos/0x92ea5EBe51C6eaa65402709f4609D615ED757770.png"
+      "logoURI": "https://raw.githubusercontent.com/coinzax/token-list/main/logos/0x087605D98dba8F7F2E24833093Dcbd131Dc6F139.png"
     }
   ]
 }
