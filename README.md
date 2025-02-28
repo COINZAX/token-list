@@ -19,7 +19,7 @@ Open `token-list.json` and add your token information in the following format:
   "name": "Your Token Name",
   "symbol": "YTN",
   "decimals": 18,
-  "logoURI": "https://raw.githubusercontent.com/coinzax/token-list/main/logos/0xYourTokenAddress.png"
+  "logoURI": "https://raw.githubusercontent.com/COINZAX/token-list/main/logo/0xYourTokenAddress.png"
 }
 ```
 
